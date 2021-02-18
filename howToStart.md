@@ -60,6 +60,6 @@ When you get used to the market, you are able to know what is a good price or no
 Don't forget to note the things you are doing, you want to know if you took good or bad decisions. Orders history on Binance is only going 3 months back, be sure to export it every two month
 Think to things that could make it easier for you to invests 
 
-# 6) Connect with communities
+## 6) Connect with communities
 
 Once you have a proper opinion of how it works, go find other people and see what are their vision so you can critic yours
